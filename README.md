@@ -22,11 +22,11 @@ Tenho experiência em projetos acadêmicos e colaborativos, participando de dife
 
 ### 💼 Projeto em Destaque
 
-**PPTour | Plataforma sobre o Expresso Turístico de Paranapiacaba**
+**StellariScope | Plataforma sobre as cusiosidades do espaço**
 
 Projeto desenvolvido em equipe como parte da formação no Instituto PROA.
 
-O PPTour tem como objetivo divulgar a jornada e as curiosidades do Expresso Turístico de Paranapiacaba.
+O StellariScope tem como objetivo divulgar as curiosidades do espaço em uma plataforma dinâmica.
 
 **Minha participação:**
 - Desenvolvimento full-stack em equipe.
