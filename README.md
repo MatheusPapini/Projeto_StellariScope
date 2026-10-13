@@ -34,8 +34,6 @@ O PPTour tem como objetivo divulgar a jornada e as curiosidades do Expresso Tur�
 - Utilização da metodologia Kanban.
 - Colaboração na implementação de funcionalidades.
 
-🔗 Repositório: *https://pptour.vercel.app/*
-
 ### 📚 Atualmente
 
 - Aprimorando meus conhecimentos em desenvolvimento de software.
