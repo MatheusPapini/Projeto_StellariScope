@@ -1,4 +1,4 @@
-# 🪐 StellariScope
+# 🔭🪐 StellariScope
 
 ### Plataforma sobre as cusiosidades do espaço
 
